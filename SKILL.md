@@ -14,7 +14,7 @@ Markdown 格式如下:
 
 今天共有 X 篇论文, 请查阅~
 
-## 📄 [1/X] [[abs](link_to_abs) | [pdf](link_to_pdf)] [论文名]
+## 📄 [1/X] [ [abs](link_to_abs) | [pdf](link_to_pdf) ] [论文名]
 
 [根据摘要生成 100 字左右的中文简介.]
 
